@@ -29,6 +29,7 @@ bir proje dizininde eksi ve yeni versiyýnlar arasýndaki geçiþ daha kolay yapýlýr
 
 
 
+
 --------------------------------------------------------------
 
 2.KURULUMU
